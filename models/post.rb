@@ -1,2 +1,2 @@
-class Post < NodeCollection
+class Post < Node
 end
